@@ -1,0 +1,1 @@
+export {default as colorCode} from './colorCode.js';
